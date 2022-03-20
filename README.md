@@ -40,16 +40,11 @@
 - [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o&t?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o&t)
 
 
-<h3> Dєρℓογ το нєяοκυ </h3>
-
-- Click Here :- [main repo](https://github.com/LEGEND-AI/LEGENDBOT)
-- Fork The Main Repo.
-- Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : LEGEND1BOT, HSKSBOT, LEGENDOFFBOT etc...
-- Now U Can Deploy This Bot.
-
-<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-</a>
+━━━━━━━━━━━━━━━━━━━━━━
+## ㅤㅤㅤᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀
+ㅤㅤㅤᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ ꜰᴀʟʟᴇɴ ʀᴏʙᴏᴛ​
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/mrvk1703/FallenRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ ━━━━━━━━━━━━━━━━━━━━━━
 
 ---------
 
