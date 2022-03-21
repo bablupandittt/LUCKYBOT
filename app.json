@@ -1,5 +1,5 @@
 {
-  "name": "LEGENDBOT",
+  "name": "LUCKYBOT",
   "description": "Made with Love And By Python Language With Hardwork... By @LegendBoy_XD❤ ",
   "logo": "https://telegra.ph/file/7aca8e594e14f51f0ce14.jpg",
   "keywords": [
@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/mrvk1703/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-AI/LEGENDBOT/",
+  "repository": "https://github.com/mrvk1703/LUCKYBOT/",
+  "website": "https://github.com/MRVK1703/LUCKYBOT/",
   "success_url": "https://t.me/Legend_K_Userbot",
   "env": {
     "ENV": {
